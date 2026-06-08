@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+
+  storage-node-1:
+    image: ubuntu
+    container_name: node1
+
+  storage-node-2:
+    image: ubuntu
+    container_name: node2
+
+  storage-node-3:
+    image: ubuntu
+    container_name: node3
+
+  storage-node-4:
+    image: ubuntu
+    container_name: node4
