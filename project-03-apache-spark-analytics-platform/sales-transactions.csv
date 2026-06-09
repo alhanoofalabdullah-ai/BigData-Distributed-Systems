@@ -1,0 +1,15 @@
+transaction_id,customer_id,region,product,channel,amount,quantity
+
+1001,C001,Riyadh,Laptop,Online,4500,1
+
+1002,C002,Jeddah,Mobile,Store,2800,1
+
+1003,C003,Dammam,Tablet,Online,1800,2
+
+1004,C004,Riyadh,Monitor,Store,900,1
+
+1005,C005,Jeddah,Laptop,Online,4700,1
+
+1006,C006,Riyadh,Keyboard,Online,350,3
+
+1007,C007,Dammam,Mobile,Store,2600,1
