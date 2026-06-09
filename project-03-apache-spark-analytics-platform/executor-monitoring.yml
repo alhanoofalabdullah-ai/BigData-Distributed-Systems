@@ -1,0 +1,9 @@
+executor_metrics:
+
+  executor_memory_used
+
+  executor_cpu_time
+
+  executor_run_time
+
+  executor_failed_tasks
