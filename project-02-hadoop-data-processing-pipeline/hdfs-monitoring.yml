@@ -1,0 +1,11 @@
+hdfs_metrics:
+
+  total_capacity
+
+  used_capacity
+
+  available_capacity
+
+  active_datanodes
+
+  failed_datanodes
