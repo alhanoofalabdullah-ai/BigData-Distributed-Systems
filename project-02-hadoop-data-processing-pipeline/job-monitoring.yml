@@ -1,0 +1,13 @@
+job_metrics:
+
+  job_name
+
+  job_status
+
+  start_time
+
+  end_time
+
+  processing_duration
+
+  output_records
