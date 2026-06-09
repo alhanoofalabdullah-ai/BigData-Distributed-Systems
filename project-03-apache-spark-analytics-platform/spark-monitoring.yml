@@ -1,0 +1,11 @@
+spark_metrics:
+
+  active_jobs
+
+  completed_jobs
+
+  failed_jobs
+
+  running_applications
+
+  completed_applications
