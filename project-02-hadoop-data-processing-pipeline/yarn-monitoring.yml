@@ -1,0 +1,11 @@
+yarn_metrics:
+
+  running_jobs
+
+  completed_jobs
+
+  failed_jobs
+
+  allocated_memory
+
+  available_memory
