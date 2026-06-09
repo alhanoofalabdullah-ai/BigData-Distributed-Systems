@@ -1,0 +1,9 @@
+elasticsearch_metrics:
+
+  index_size
+
+  document_count
+
+  query_latency
+
+  cluster_health
