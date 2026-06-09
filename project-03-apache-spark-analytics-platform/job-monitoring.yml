@@ -1,0 +1,11 @@
+job_metrics:
+
+  job_name
+
+  job_status
+
+  job_duration
+
+  processed_records
+
+  failed_records
