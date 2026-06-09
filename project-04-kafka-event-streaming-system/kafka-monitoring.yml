@@ -1,0 +1,9 @@
+kafka_metrics:
+
+  active_topics
+
+  messages_per_second
+
+  broker_availability
+
+  partition_count
