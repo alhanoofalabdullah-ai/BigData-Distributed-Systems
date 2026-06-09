@@ -1,0 +1,9 @@
+alerts:
+
+  - failed_logins
+
+  - suspicious_ip
+
+  - privilege_escalation
+
+  - unauthorized_access
