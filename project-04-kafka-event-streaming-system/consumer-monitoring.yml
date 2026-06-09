@@ -1,0 +1,9 @@
+consumer_metrics:
+
+  consumer_lag
+
+  processed_messages
+
+  failed_messages
+
+  processing_time
