@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 05 real time log processing platform"
+
+git push
