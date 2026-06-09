@@ -1,0 +1,9 @@
+pipeline_health:
+
+  successful_jobs
+
+  failed_jobs
+
+  average_runtime
+
+  last_execution
