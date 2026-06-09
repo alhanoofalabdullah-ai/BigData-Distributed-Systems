@@ -1,0 +1,11 @@
+etl_metrics:
+
+  records_extracted
+
+  records_transformed
+
+  records_loaded
+
+  failed_records
+
+  pipeline_execution_time
