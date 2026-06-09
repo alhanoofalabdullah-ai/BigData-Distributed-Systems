@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 02 hadoop data processing pipeline"
+
+git push
