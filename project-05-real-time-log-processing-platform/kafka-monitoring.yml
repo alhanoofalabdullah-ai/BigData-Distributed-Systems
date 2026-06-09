@@ -1,0 +1,9 @@
+kafka_metrics:
+
+  messages_per_second
+
+  active_topics
+
+  consumer_lag
+
+  broker_status
