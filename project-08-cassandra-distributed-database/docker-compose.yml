@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+
+  cassandra-node1:
+    image: cassandra:latest
+    container_name: cassandra-node1
+    ports:
+      - "9042:9042"
+
+  cassandra-node2:
+    image: cassandra:latest
+    container_name: cassandra-node2
+
+  cassandra-node3:
+    image: cassandra:latest
+    container_name: cassandra-node3
