@@ -1,0 +1,9 @@
+governance_metrics:
+
+  governance_score
+
+  managed_datasets
+
+  lineage_coverage
+
+  policy_adoption
