@@ -1,0 +1,9 @@
+recommendation_metrics:
+
+  recommendations_generated
+
+  recommendation_accuracy
+
+  click_through_rate
+
+  conversion_rate
