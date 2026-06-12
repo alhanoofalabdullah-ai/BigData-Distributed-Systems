@@ -1,0 +1,9 @@
+tracing_metrics:
+
+  trace_count
+
+  trace_latency
+
+  failed_traces
+
+  service_dependencies
