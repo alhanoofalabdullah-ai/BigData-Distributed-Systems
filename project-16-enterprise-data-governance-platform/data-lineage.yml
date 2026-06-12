@@ -1,0 +1,12 @@
+lineage:
+
+  customer_data:
+
+    source:
+      CRM System
+
+    transformation:
+      ETL Pipeline
+
+    target:
+      Data Warehouse
