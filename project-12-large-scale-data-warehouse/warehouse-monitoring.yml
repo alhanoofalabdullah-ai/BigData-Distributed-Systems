@@ -1,0 +1,9 @@
+warehouse_metrics:
+
+  warehouse_size
+
+  active_queries
+
+  storage_utilization
+
+  warehouse_growth_rate
