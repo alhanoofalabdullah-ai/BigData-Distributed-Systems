@@ -1,0 +1,9 @@
+compliance_metrics:
+
+  compliance_score
+
+  policy_violations
+
+  audit_findings
+
+  retention_compliance
