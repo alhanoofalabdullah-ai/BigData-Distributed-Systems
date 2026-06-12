@@ -1,0 +1,9 @@
+query_metrics:
+
+  query_execution_time
+
+  slow_queries
+
+  query_success_rate
+
+  active_sessions
