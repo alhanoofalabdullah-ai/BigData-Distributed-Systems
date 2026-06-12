@@ -1,0 +1,9 @@
+risk_metrics:
+
+  average_risk_score
+
+  high_risk_customers
+
+  critical_alerts
+
+  fraud_cases
