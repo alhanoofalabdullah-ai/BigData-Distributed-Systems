@@ -1,0 +1,9 @@
+pipeline_metrics:
+
+  training_jobs
+
+  completed_jobs
+
+  failed_jobs
+
+  deployment_success_rate
