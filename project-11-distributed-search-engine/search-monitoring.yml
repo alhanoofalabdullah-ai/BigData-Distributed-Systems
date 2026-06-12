@@ -1,0 +1,9 @@
+search_metrics:
+
+  search_queries_per_second
+
+  average_query_time
+
+  failed_queries
+
+  successful_queries
