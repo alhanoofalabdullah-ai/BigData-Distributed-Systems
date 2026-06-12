@@ -1,0 +1,9 @@
+logging_metrics:
+
+  log_volume
+
+  error_logs
+
+  warning_logs
+
+  critical_logs
