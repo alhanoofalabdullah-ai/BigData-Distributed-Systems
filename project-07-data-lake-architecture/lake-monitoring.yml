@@ -1,0 +1,9 @@
+lake_metrics:
+
+  datasets_count
+
+  ingestion_success_rate
+
+  storage_utilization
+
+  governance_compliance
