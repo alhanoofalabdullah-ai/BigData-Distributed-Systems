@@ -1,0 +1,10 @@
+owners:
+
+  customer_data:
+    Data Steward
+
+  finance_data:
+    Finance Steward
+
+  sales_data:
+    Sales Steward
