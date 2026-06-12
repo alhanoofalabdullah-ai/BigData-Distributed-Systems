@@ -1,0 +1,9 @@
+resource_metrics:
+
+  cpu_utilization
+
+  memory_utilization
+
+  disk_utilization
+
+  network_usage
