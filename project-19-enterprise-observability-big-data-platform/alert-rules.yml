@@ -1,0 +1,17 @@
+groups:
+
+- name: ObservabilityAlerts
+
+  rules:
+
+  - alert: ServiceDown
+    expr: up == 0
+
+  - alert: HighErrorRate
+    expr: error_rate > 5
+
+  - alert: SlowResponseTime
+    expr: response_time > 2
+
+  - alert: InfrastructureFailure
+    expr: cpu_usage > 95
