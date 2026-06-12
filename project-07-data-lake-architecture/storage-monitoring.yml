@@ -1,0 +1,9 @@
+storage_metrics:
+
+  raw_zone_size
+
+  processed_zone_size
+
+  curated_zone_size
+
+  total_storage_used
