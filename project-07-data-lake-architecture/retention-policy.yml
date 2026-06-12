@@ -1,0 +1,7 @@
+retention_policy:
+
+  raw_zone: 5_years
+
+  processed_zone: 3_years
+
+  curated_zone: 7_years
