@@ -1,0 +1,9 @@
+model_metrics:
+
+  model_accuracy
+
+  precision
+
+  recall
+
+  training_duration
