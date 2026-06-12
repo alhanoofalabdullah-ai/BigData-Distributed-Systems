@@ -1,0 +1,9 @@
+infrastructure_metrics:
+
+  cpu_usage
+
+  memory_usage
+
+  disk_usage
+
+  network_usage
