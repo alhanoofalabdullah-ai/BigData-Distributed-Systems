@@ -1,0 +1,9 @@
+performance_metrics:
+
+  spark_job_duration
+
+  kafka_throughput
+
+  cassandra_latency
+
+  hdfs_response_time
