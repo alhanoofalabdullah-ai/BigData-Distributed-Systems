@@ -1,0 +1,9 @@
+quality_metrics:
+
+  quality_score
+
+  validation_errors
+
+  completeness_score
+
+  consistency_score
