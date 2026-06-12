@@ -1,0 +1,9 @@
+customer_metrics:
+
+  active_customers
+
+  customer_engagement_score
+
+  retention_rate
+
+  customer_lifetime_value
