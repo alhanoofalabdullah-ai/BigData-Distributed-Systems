@@ -1,0 +1,9 @@
+cluster_metrics:
+
+  active_nodes
+
+  cluster_health
+
+  storage_used
+
+  failed_nodes
