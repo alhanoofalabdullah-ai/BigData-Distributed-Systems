@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "add project 20 big data command center platform"
+
+git push
