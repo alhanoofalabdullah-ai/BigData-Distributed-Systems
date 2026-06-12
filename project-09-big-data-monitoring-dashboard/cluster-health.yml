@@ -1,0 +1,9 @@
+cluster_metrics:
+
+  cluster_health_score
+
+  active_clusters
+
+  failed_clusters
+
+  uptime_percentage
