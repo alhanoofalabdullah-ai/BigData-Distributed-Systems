@@ -1,0 +1,13 @@
+datasets:
+
+  customer_data:
+    owner: Data Team
+    classification: Confidential
+
+  finance_data:
+    owner: Finance Team
+    classification: Restricted
+
+  sales_data:
+    owner: Sales Team
+    classification: Internal
