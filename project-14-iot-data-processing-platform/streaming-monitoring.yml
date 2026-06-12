@@ -1,0 +1,9 @@
+stream_metrics:
+
+  processed_events
+
+  failed_events
+
+  stream_latency
+
+  active_streams
