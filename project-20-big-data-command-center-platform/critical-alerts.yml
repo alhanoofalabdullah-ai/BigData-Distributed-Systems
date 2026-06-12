@@ -1,0 +1,9 @@
+alerts:
+
+  - platform_failure
+
+  - security_breach
+
+  - cluster_failure
+
+  - data_loss_risk
