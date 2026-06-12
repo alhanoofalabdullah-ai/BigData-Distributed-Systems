@@ -1,0 +1,9 @@
+cluster_metrics:
+
+  cluster_health
+
+  active_nodes
+
+  indexing_rate
+
+  search_rate
