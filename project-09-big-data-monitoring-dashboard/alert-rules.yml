@@ -1,0 +1,20 @@
+groups:
+
+- name: BigDataAlerts
+
+  rules:
+
+  - alert: ClusterDown
+    expr: up == 0
+
+  - alert: StorageCapacityHigh
+    expr: storage_utilization > 80
+
+  - alert: KafkaConsumerLag
+    expr: consumer_lag > 1000
+
+  - alert: CassandraNodeFailure
+    expr: active_nodes < 3
+
+  - alert: SparkJobFailure
+    expr: failed_jobs > 0
