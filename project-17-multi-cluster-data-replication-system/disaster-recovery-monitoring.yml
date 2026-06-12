@@ -1,0 +1,9 @@
+dr_metrics:
+
+  recovery_readiness_score
+
+  failover_events
+
+  recovery_time
+
+  business_continuity_score
