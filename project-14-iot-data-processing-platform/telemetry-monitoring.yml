@@ -1,0 +1,9 @@
+telemetry_metrics:
+
+  telemetry_events_per_second
+
+  average_temperature
+
+  average_humidity
+
+  gps_updates
