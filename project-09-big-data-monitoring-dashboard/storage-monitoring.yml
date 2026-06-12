@@ -1,0 +1,9 @@
+storage_metrics:
+
+  hdfs_utilization
+
+  storage_growth
+
+  available_capacity
+
+  used_capacity
