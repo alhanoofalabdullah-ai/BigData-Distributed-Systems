@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+
+  data-lake:
+
+    image: python:3.11
+
+    container_name: data-lake-platform
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: tail -f /dev/null
