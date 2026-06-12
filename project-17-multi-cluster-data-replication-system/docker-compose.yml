@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+  primary-cluster:
+    image: postgres:16
+    container_name: primary-cluster
+
+  secondary-cluster:
+    image: postgres:16
+    container_name: secondary-cluster
+
+  disaster-recovery-cluster:
+    image: postgres:16
+    container_name: disaster-recovery-cluster
