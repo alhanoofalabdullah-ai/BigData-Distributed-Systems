@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Laptop",
+    "category": "Electronics",
+    "price": 4500
+  },
+  {
+    "product_id": 2,
+    "product_name": "Mobile Phone",
+    "category": "Electronics",
+    "price": 2800
+  },
+  {
+    "product_id": 3,
+    "product_name": "Tablet",
+    "category": "Electronics",
+    "price": 1800
+  }
+]
