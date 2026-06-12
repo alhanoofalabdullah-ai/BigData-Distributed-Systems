@@ -1,0 +1,9 @@
+classification_levels:
+
+  public
+
+  internal
+
+  confidential
+
+  restricted
