@@ -1,0 +1,9 @@
+etl_metrics:
+
+  etl_success_rate
+
+  processed_records
+
+  failed_records
+
+  execution_time
