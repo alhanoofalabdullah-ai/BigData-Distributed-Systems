@@ -1,0 +1,9 @@
+flink_metrics:
+
+  running_jobs
+
+  failed_jobs
+
+  task_managers
+
+  checkpoint_status
