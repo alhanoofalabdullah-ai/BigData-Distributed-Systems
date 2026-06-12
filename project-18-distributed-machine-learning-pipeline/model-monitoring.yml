@@ -1,0 +1,9 @@
+model_metrics:
+
+  model_accuracy
+
+  model_precision
+
+  model_recall
+
+  f1_score
