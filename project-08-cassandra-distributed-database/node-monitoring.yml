@@ -1,0 +1,11 @@
+node_metrics:
+
+  cpu_usage
+
+  memory_usage
+
+  disk_usage
+
+  read_latency
+
+  write_latency
