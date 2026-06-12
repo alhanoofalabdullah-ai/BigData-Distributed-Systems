@@ -1,0 +1,9 @@
+application_metrics:
+
+  request_rate
+
+  response_time
+
+  error_rate
+
+  availability
