@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+
+  governance-platform:
+    image: python:3.11
+
+    container_name: governance-platform
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: tail -f /dev/null
