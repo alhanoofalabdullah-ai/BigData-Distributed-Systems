@@ -1,0 +1,9 @@
+kafka_metrics:
+
+  active_topics
+
+  broker_health
+
+  consumer_lag
+
+  throughput
