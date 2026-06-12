@@ -1,0 +1,9 @@
+device_metrics:
+
+  active_devices
+
+  offline_devices
+
+  device_health_score
+
+  connectivity_status
