@@ -1,0 +1,9 @@
+replication_metrics:
+
+  replication_factor
+
+  replication_status
+
+  consistency_level
+
+  node_synchronization
