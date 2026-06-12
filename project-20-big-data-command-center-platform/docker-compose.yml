@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+
+  prometheus:
+    image: prom/prometheus
+
+  grafana:
+    image: grafana/grafana
+
+  loki:
+    image: grafana/loki
+
+  jaeger:
+    image: jaegertracing/all-in-one
+
+  elasticsearch:
+    image: elasticsearch:8.12.0
+
+  kafka:
+    image: confluentinc/cp-kafka
+
+  cassandra:
+    image: cassandra:latest
+
+  spark:
+    image: bitnami/spark:latest
+
+  hadoop:
+    image: bde2020/hadoop-namenode
