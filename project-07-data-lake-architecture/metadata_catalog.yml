@@ -1,0 +1,13 @@
+datasets:
+
+  sales:
+    owner: data-engineering
+    classification: internal
+
+  customers:
+    owner: business-team
+    classification: confidential
+
+  products:
+    owner: operations
+    classification: internal
