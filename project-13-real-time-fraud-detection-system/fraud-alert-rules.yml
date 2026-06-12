@@ -1,0 +1,11 @@
+alerts:
+
+  - CriticalFraudDetected
+
+  - HighRiskTransaction
+
+  - MultipleFailedPayments
+
+  - SuspiciousCustomerActivity
+
+  - FraudInvestigationRequired
