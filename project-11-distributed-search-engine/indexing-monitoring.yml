@@ -1,0 +1,9 @@
+indexing_metrics:
+
+  indexed_documents
+
+  indexing_rate
+
+  failed_indexing
+
+  storage_usage
